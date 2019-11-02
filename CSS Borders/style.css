@@ -1,0 +1,13 @@
+.box {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    /* box-sizing: border-box; */
+    border: solid 10px lightgreen;
+}
+.content {
+    background-color: white;
+    padding: 10px;
+    box-sizing: border-box;
+}
